@@ -11,13 +11,13 @@
   <a href="https://github.com/mizanurmillon">
     <img src="https://img.shields.io/github/followers/mizanurmillon?label=GitHub&style=social" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/mizanurmillon">
+  <a href="https://www.linkedin.com/in/md-mizanur-rahman-5a1200280">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/mizanurmillon">
     <img src="https://img.shields.io/twitter/follow/mizanurmillon?label=Twitter&style=social" alt="Twitter">
   </a>
-  <a href="https://mizanurmillon.dev">
+  <a href="https://mdmizanur-rahman.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square" alt="Portfolio">
   </a>
 </p>
