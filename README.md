@@ -49,13 +49,6 @@
 - ....
 ---
 
-## 🏅 Certifications / Awards
-
-- 🥇 Certified Laravel Developer
-- 🥈 2nd Place at XYZ Hackathon
-
----
-
 ## 💬 About Me
 
 > _"I am a passionate Laravel backend developer with 1 year of experience in designing, developing, and optimizing web applications. Proficient in PHP, Laravel Framework, MySQL, RESTful APIs, and modern backend architectures. Skilled in database management, performance optimization, and integrating third-party services."_
