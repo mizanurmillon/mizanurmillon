@@ -1,6 +1,6 @@
 <!-- Profile Header with image and badges -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/119239411?v=4" width="120" style="border-radius: 50%;" alt="Mizanur Millon Avatar"/>
+  <img src="https://avatars.githubusercontent.com/u/119239411?v=4" width="120" style="border-radius: 50%" alt="Mizanur Millon Avatar"/>
 </p>
 
 <h1 align="center">Hi, I'm <span style="color:#32B5FF;">Md Mizanur Rahman (Millon)</span> 👋</h1>
