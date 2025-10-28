@@ -46,6 +46,7 @@
 - [**Project4**](https://nixrly.com/): Service Provider Management System (flutter app backend and App landing page)
 - [**Project5**](https://plantwebs.netlify.app/): Plant website.
 - [**Project6**](https://mdmizanur-rahman.netlify.app/): My Portfolio.
+- [**Project7**](https://sustainable-trades.vercel.app/): Multi vendor e-commerce website (Laravel backend and React)
 - ....
 ---
 
