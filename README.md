@@ -40,12 +40,12 @@
 
 ## 🌟 Featured Projects
 
-- [**Project1**](https://health-recipes-frontend.netlify.app/): Baby Bites to Golden Delights – Healthy Recipes & Tips for All thys.
+- [**Project1**](https://healthy-care-recipes.vercel.app/): Baby Bites to Golden Delights – Healthy Recipes & Tips for All thys.
 - [**Project2**](https://777bags.com/): Custom Product Packaging Web Site.
 - [**Project3**](https://bjjsource.com/): Course Uploader System.
-- [**Project4**](https://mind-care-taupe.vercel.app/): Doctor Appointment Booking System.
-- [**Project5**](https://synergy-nvest.netlify.app/): Real estate website.
-- [**Project6**](https://theoa.softvencefsd.xyz/): Mobile App for Alarm System For Backend.
+- [**Project4**](https://nixrly.com/): Service Provider Management System (flutter app backend and App landing page)
+- [**Project5**](https://plantwebs.netlify.app/): Plant website.
+- [**Project6**](https://mdmizanur-rahman.netlify.app/): My Portfolio.
 - ....
 ---
 
