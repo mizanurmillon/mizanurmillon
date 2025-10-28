@@ -38,7 +38,7 @@
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 My Projects
 
 - [**Project1**](https://healthy-care-recipes.vercel.app/): Baby Bites to Golden Delights – Healthy Recipes & Tips for All thys.
 - [**Project2**](https://777bags.com/): Custom Product Packaging Web Site.
