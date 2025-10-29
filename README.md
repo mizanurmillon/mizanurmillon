@@ -14,8 +14,8 @@
   <a href="https://www.linkedin.com/in/md-mizanur-rahman-5a1200280">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/mizanurmillon">
-    <img src="https://img.shields.io/twitter/follow/mizanurmillon?label=Twitter&style=social" alt="Twitter">
+  <a href="https://www.facebook.com/mdmijanur.rahaman.54966834">
+    <img src="https://img.shields.io/facebook/follow/mizanurmillon?label=Facebook&style=social" alt="Facebook">
   </a>
   <a href="https://mdmizanur-rahman.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square" alt="Portfolio">
@@ -65,8 +65,8 @@
   <a href="https://www.linkedin.com/in/md-mizanur-rahman-5a1200280">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://twitter.com/mizanurmillon">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/md-mizanur-rahman-5a1200280">
+    <img src="https://img.shields.io/badge/Facebook-1DA1F2?logo=facebook&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://mdmizanur-rahman.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge" />
