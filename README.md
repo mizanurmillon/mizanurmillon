@@ -52,7 +52,7 @@
 
 ## 💬 About Me
 
-> _"I am a passionate Laravel backend developer with 1 year of experience in designing, developing, and optimizing web applications. Proficient in PHP, Laravel Framework, MySQL, RESTful APIs, and modern backend architectures. Skilled in database management, performance optimization, and integrating third-party services."_
+> _"I am a passionate Laravel backend developer with 1.5 years of experience in designing, developing, and optimizing web applications. Proficient in PHP, Laravel Framework, MySQL, RESTful APIs, and modern backend architectures. Skilled in database management, performance optimization, and integrating third-party services."_
 
 ---
 
@@ -77,10 +77,13 @@
 
 ## 🎉 Fun Facts / Hobbies
 
+- 🏏 Cricket fan
+- ⚽ Football lover
 - 🚴‍♂️ Cycling enthusiast
-- 🎬 Anime fan
+- 🏍️ Bike rides
+- 🌍 Traveling and touring
+- 🎬 Movie lover
 - 🤝 Open-source contributor
-
 ---
 
 <p align="center">
