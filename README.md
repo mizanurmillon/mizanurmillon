@@ -33,7 +33,15 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,php,laravel,mysql,postgresql,js,jquery,react,docker,vscode,postman,git,github,figma,vite,aws,firebase" />
 </p>
 
-
+## 👇 Learning
+- 🔭 I’m currently working on a Laravel backend
+- 🌱 I’m currently learning ReactJS 
+- 💬 Ask me about HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, PHP, and Laravel.
+- 📫 How to reach me: <br />
+  ✉️ Email: mr7517218@gmail.com <br />
+  🌐 Facebook: https://www.facebook.com/mdmijanur.rahaman.54966834 <br />
+  🌍 Portfolio: https://mdmizanur-rahman.netlify.app
+  
 ---
 
 ## 🌟 My Projects
