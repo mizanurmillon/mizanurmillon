@@ -68,11 +68,10 @@
 ---
 
 ## 📊 GitHub Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mizanurmillon&theme=github_dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mizanurmillon&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mizanurmillon&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mizanurmillon&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mizanurmillon&theme=github_dark&utcOffset=8)
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=mizanurmillon&label=Profile%20views&color=0e75b6&style=flat" alt="mizanurmillon" />
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mizanurmillon&theme=github_dark) <span align="right">&nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=mizanurmillon&label=Profile%20views&color=0e75b6&style=flat" alt="mizanurmillon" /> <span/>
+
+<br />
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mizanurmillon&theme=github_dark) <span align="right">  &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mizanurmillon&theme=github_dark)<span />
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mizanurmillon&theme=github_dark) <span align="right">  &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mizanurmillon&theme=github_dark&utcOffset=8) <span />
