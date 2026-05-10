@@ -1,7 +1,13 @@
 
 <!-- Profile Header with image and badges -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/119239411?v=4" width="150" style="border-radius: 50%" alt="Mizanur Millon Avatar"/>
+  <img 
+    src="https://avatars.githubusercontent.com/u/119239411?v=4" 
+    width="150" 
+    height="150"
+    style="border-radius: 50%; object-fit: cover;"
+    alt="Mizanur Millon Avatar"
+  />
 </p>
 
 <h1 align="center">Hi 👋, I'm Md Mizanur Rahman</h1>
