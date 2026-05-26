@@ -30,7 +30,7 @@
 
 ## 💬 About Me
 
-> _"Laravel Backend Developer with 1.5+ years of hands-on experience building scalable and performance-driven web applications.Experienced in PHP, Laravel, MySQL, and RESTful API architecture, with a solid foundation in OOP and clean code principles.Skilled in database optimization, secure payment gateway integration, third-party API integration, and production server deployment.Focused on writing efficient, maintainable code and delivering reliable backend systems that solve real-world problems."_
+> _"Laravel Backend Developer with 1.8+ years of hands-on experience building scalable and performance-driven web applications.Experienced in PHP, Laravel, MySQL, and RESTful API architecture, with a solid foundation in OOP and clean code principles.Skilled in database optimization, secure payment gateway integration, third-party API integration, and production server deployment.Focused on writing efficient, maintainable code and delivering reliable backend systems that solve real-world problems."_
 
 ---
 
